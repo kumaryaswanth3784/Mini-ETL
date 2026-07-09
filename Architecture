@@ -1,0 +1,19 @@
+CSV Files
+     │
+     ▼
+Read CSV
+     │
+     ▼
+Remove Duplicates
+     │
+     ▼
+Fill Null Values
+     │
+     ▼
+Join DataFrames
+     │
+     ▼
+Transform Data
+     │
+     ▼
+Write Parquet
